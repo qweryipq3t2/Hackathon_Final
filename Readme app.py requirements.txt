@@ -1,0 +1,1 @@
+The app.py file will only work if the WhatsApp api and the ngrok tunnel are running and a public url is open on ngrok as it scrapes the text and audio memos from WhatsApp.
